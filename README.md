@@ -19,7 +19,7 @@ This project is a Streamlit-based chatbot designed to answer questions about Nik
 
 - Python 3.8 or higher
 - pip (Python package installer)
-- Google Chrome (for web scraping)
+- Firefox (for web scraping)
 
 ### Installation
 
