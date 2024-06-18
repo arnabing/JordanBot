@@ -1,0 +1,8 @@
+# Ignore environment variables file
+.env
+
+# Ignore Chroma database folders
+chroma_data/
+chroma_db/
+images/
+venv/
