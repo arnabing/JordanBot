@@ -7,7 +7,7 @@ This project is a Streamlit-based chatbot designed to answer questions about Nik
 ## Features
 
 - Scrapes Nike's website to gather product information and download images.
-- Classifies images using GPT-4-turbo to obtain detailed attribute information.
+- Classifies images using GPT-4o to obtain detailed attribute information.
 - Answers questions about Nike's Jordan shoes using data from a CSV file.
 - Displays product images when relevant.
 - Speaks responses using text-to-speech.
