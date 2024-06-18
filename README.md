@@ -1,6 +1,8 @@
 # Nike's Jordan Chatbot
 
-This project is a Streamlit-based chatbot designed to answer questions about Nike's Jordan shoes. The chatbot uses OpenAI's GPT-4-turbo model to provide responses and leverages a CSV file containing product information to ensure accurate and specific answers. Additionally, the chatbot can speak its responses using OpenAI's text-to-speech capabilities and display images of the shoes.
+https://www.loom.com/share/03a9c3a66f4c4a599c54105903d74905?sid=5ff37acc-d3c7-4495-9715-f7b29ae64319
+
+This project is a Streamlit-based chatbot designed to answer questions about Nike's Jordan shoes. The chatbot uses OpenAI's GPT-3.5-turbo model to provide responses and leverages a CSV file containing product information to ensure accurate and specific answers. Additionally, the chatbot can speak its responses using OpenAI's text-to-speech capabilities and display images of the shoes.
 
 ## Features
 
